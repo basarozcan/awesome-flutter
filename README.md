@@ -2,7 +2,9 @@
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Google's Flutter ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+Inspired by;
+- [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel)
+- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
 
@@ -94,6 +96,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Articles, Tutorials, Blogs etc.
+
+- [Flutter-io @ Medium](https://medium.com/flutter-io)
 
 
 ## Videos
