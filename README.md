@@ -103,6 +103,8 @@ Inspired by;
 
 ## Videos
 
+- [Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE) &#9654;
+
 
 
 ## Conferences
