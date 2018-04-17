@@ -9,6 +9,7 @@ Inspired by;
 ## Table of Contents
 
 - [Essentials](#essentials)
+- [Widgets](#widgets)
 - [Packages](#packages)
 - [Popular Packages](#popular-packages)
 - [Development Setup](#development-setup)
@@ -31,10 +32,17 @@ Inspired by;
 ## Essentials
 
 * [Flutter](https://flutter.io) ([Documentation](https://flutter.io/docs/))
+* [Flutter Github](https://github.com/flutter/flutter)
 * [Dart Language](https://www.dartlang.org/)
+* [Gitter Community](https://gitter.im/flutter/flutter)
+
+## Widgets
+
+* [Flutter Widgets](https://flutter.io/widgets/)
 
 ## Packages
 
+* [Dart Pub](https://pub.dartlang.org/flutter)
 
 ## Popular Packages
 
