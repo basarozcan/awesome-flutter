@@ -109,6 +109,7 @@ Inspired by;
 
 * [Flutter-io @ Medium](https://medium.com/flutter-io)
 * [Zero to one with Flutter @ Medium](https://medium.com/flutter-io/zero-to-one-with-flutter-43b13fd7b354)
+* [Planets-Flutter: From design to app](https://sergiandreplace.com//tags/flutter/)
 
 
 ## Videos
