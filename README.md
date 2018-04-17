@@ -107,12 +107,13 @@ Inspired by;
 
 ## Articles, Tutorials, Blogs etc.
 
-- [Flutter-io @ Medium](https://medium.com/flutter-io)
+* [Flutter-io @ Medium](https://medium.com/flutter-io)
+* [Zero to one with Flutter @ Medium](https://medium.com/flutter-io/zero-to-one-with-flutter-43b13fd7b354)
 
 
 ## Videos
 
-- [Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE) &#9654;
+* [Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE) &#9654;
 
 
 
