@@ -31,6 +31,7 @@ Inspired by;
 ## Essentials
 
 * [Flutter](https://flutter.io) ([Documentation](https://flutter.io/docs/))
+* [Dart Language](https://www.dartlang.org/)
 
 ## Packages
 
