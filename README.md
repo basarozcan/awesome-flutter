@@ -36,6 +36,7 @@ Inspired by;
 * [Dart Language](https://www.dartlang.org/)
 * [Gitter Community](https://gitter.im/flutter/flutter)
 * [Flutter for React Native Devs](https://flutter.io/flutter-for-react-native/)
+* [Tour of Dart Language](https://www.dartlang.org/guides/language/language-tour)
 
 ## Widgets
 
