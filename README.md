@@ -113,6 +113,7 @@ Inspired by;
 * [Planets-Flutter: From design to app](https://sergiandreplace.com//tags/flutter/)
 * [Flutter routes and Navigation @ Medium](https://proandroiddev.com/flutter-routes-and-navigation-69f128a9ea8f)
 * [Translating App from RN to Flutter](https://blog.geekyants.com/we-rebuilt-a-react-native-app-with-flutter-4160f0499a82)
+* [How to build a Simple App in Under an Hour From Scratch @ Medium](https://proandroiddev.com/flutter-how-i-built-a-simple-app-in-under-an-hour-from-scratch-and-how-you-can-do-it-too-6d8e7fe6c91b)
 
 
 ## Videos
