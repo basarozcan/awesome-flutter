@@ -45,6 +45,7 @@ Inspired by;
 ## Packages
 
 * [Dart Pub](https://pub.dartlang.org/flutter)
+* [Zooming Image Carousel](https://github.com/jmolins/carousel_effect)
 
 ## Popular Packages
 
