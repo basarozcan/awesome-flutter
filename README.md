@@ -60,6 +60,7 @@ Inspired by;
 
 
 ## Code Snippets
+* [Parallax in Flutter](https://medium.com/@swav.kulinski/spike-parallax-in-flutter-seven-lines-of-code-16a1890d8d32)
 
 
 ## Articles, Tutorials, Blogs etc.
