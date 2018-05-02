@@ -74,6 +74,7 @@ Inspired by;
 * [Flutter Challenge: Egg Timer UI @ Medium](https://medium.com/fluttery/flutter-challenge-egg-timer-ui-fffae11f4883)
 * [Flutter Challenge: Hidden Drawer Menu @ Medium](https://medium.com/fluttery/flutter-challenge-hidden-drawer-menu-1aaca9a634fd)
 * [Flutter Challenge: Weather Forecast with Rain @ Medium](https://medium.com/fluttery/flutter-challenge-weather-forecast-with-rain-438cdd1072f9)
+* [Building a Music Player App](https://medium.com/@esubaggins/flutter-music-player-app-part-1-using-multi-widgets-92c3c663f523)
 
 
 ## Videos
