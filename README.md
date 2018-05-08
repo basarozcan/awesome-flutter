@@ -76,6 +76,7 @@ Inspired by;
 * [Flutter Challenge: Weather Forecast with Rain @ Medium](https://medium.com/fluttery/flutter-challenge-weather-forecast-with-rain-438cdd1072f9)
 * [Building a Music Player App](https://medium.com/@esubaggins/flutter-music-player-app-part-1-using-multi-widgets-92c3c663f523)
 * [Creating medium’s clap animation in flutter](https://medium.com/@Kartik1607/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)
+* [Build your own plugin for flutter](https://proandroiddev.com/build-your-own-plugin-for-flutter-cfee1a08ea3a)
 
 
 ## Videos
