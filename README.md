@@ -41,6 +41,7 @@ Inspired by;
 ## Widgets
 
 * [Flutter Widgets](https://flutter.io/widgets/)
+* [Sticky Header List](https://github.com/itsJoKr/sticky_header_list)
 
 ## Packages
 
