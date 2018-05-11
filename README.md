@@ -55,12 +55,6 @@ Inspired by;
 ## Development Setup
 
 
-## Application Hosting
-
-
-## Application Deployment
-
-
 ## Code Snippets
 * [Parallax in Flutter](https://medium.com/@swav.kulinski/spike-parallax-in-flutter-seven-lines-of-code-16a1890d8d32)
 
@@ -129,9 +123,6 @@ Inspired by;
 
 ## Jobs
 
-
-
-## Hosted Development Tools
 
 
 ## Miscellaneous
