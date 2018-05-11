@@ -21,6 +21,7 @@ Inspired by;
 - [Conferences](#conferences)
 - [Books](#books)
 - [Starter Projects](#starter-projects)
+- [Open Source Projects](#open-source-projects)
 - [Codebases for Reference](#codebases-for-reference)
 - [Content Management Systems](#content-management-systems)
 - [Podcasts](#podcasts)
@@ -96,6 +97,11 @@ Inspired by;
 ## Starter Projects
 
 * [Start Flutter](https://startflutter.com/)
+
+## Open Source Projects
+
+* [Workout App with Flutter & Firebase](https://github.com/Crazywater/knuffiworkout)
+
 
 ## Codebases for Reference
 
