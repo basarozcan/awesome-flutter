@@ -47,6 +47,7 @@ Inspired by;
 
 * [Dart Pub](https://pub.dartlang.org/flutter)
 * [Zooming Image Carousel](https://github.com/jmolins/carousel_effect)
+* [Google Charts](https://github.com/google/charts)
 
 ## Popular Packages
 
