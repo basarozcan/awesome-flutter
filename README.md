@@ -76,6 +76,7 @@ Inspired by;
 * [Build your own plugin for flutter](https://proandroiddev.com/build-your-own-plugin-for-flutter-cfee1a08ea3a)
 * [Flutter, ListView and GridView with TabBar](https://medium.com/@vigneshprakash15/flutter-listview-and-gridview-with-tabbar-221516518c75)
 * [Getting Your Hands Dirty with Flutter: Basic Animations](https://proandroiddev.com/getting-your-hands-dirty-with-flutter-basic-animations-6b9f21fa7d17)
+* [Pinterest-Style Photo Grids](https://medium.com/@ezra_69528/flutter-pinterest-style-photo-grids-b99289584b71)
 
 ## Tutorial Series
 * [Bookshelf App](https://proandroiddev.com/flutter-how-i-built-a-simple-app-in-under-an-hour-from-scratch-and-how-you-can-do-it-too-6d8e7fe6c91b)
