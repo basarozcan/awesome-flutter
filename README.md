@@ -17,6 +17,7 @@ Inspired by;
 - [Application Deployment](#application-deployment)
 - [Code Snippets](#code-snippets)
 - [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
+- [Tutorial Series](#tutorial-series)
 - [Videos](#videos)
 - [Conferences](#conferences)
 - [Books](#books)
@@ -75,6 +76,10 @@ Inspired by;
 * [Creating medium’s clap animation in flutter](https://medium.com/@Kartik1607/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)
 * [Build your own plugin for flutter](https://proandroiddev.com/build-your-own-plugin-for-flutter-cfee1a08ea3a)
 * [Flutter, ListView and GridView with TabBar](https://medium.com/@vigneshprakash15/flutter-listview-and-gridview-with-tabbar-221516518c75)
+* [Getting Your Hands Dirty with Flutter: Basic Animations](https://proandroiddev.com/getting-your-hands-dirty-with-flutter-basic-animations-6b9f21fa7d17)
+
+## Tutorial Series
+* [Bookshelf App](https://proandroiddev.com/flutter-how-i-built-a-simple-app-in-under-an-hour-from-scratch-and-how-you-can-do-it-too-6d8e7fe6c91b)
 
 
 ## Videos
