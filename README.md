@@ -79,6 +79,7 @@ Inspired by;
 * [Pinterest-Style Photo Grids](https://medium.com/@ezra_69528/flutter-pinterest-style-photo-grids-b99289584b71)
 * [Forms in Flutter](https://medium.com/@anilcan/forms-in-flutter-6e1364eafdb5)
 * [Login Form Animation](https://blog.geekyants.com/flutter-login-animation-ab3e6ed4bd19)
+* [Animating Appbar like Instagram](https://flutterdoc.com/animating-app-bars-in-flutter-cf034cd6c68b)
 
 ## Tutorial Series
 * [Bookshelf App](https://proandroiddev.com/flutter-how-i-built-a-simple-app-in-under-an-hour-from-scratch-and-how-you-can-do-it-too-6d8e7fe6c91b)
