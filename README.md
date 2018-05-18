@@ -69,9 +69,6 @@ Inspired by;
 * [Flutter routes and Navigation @ Medium](https://proandroiddev.com/flutter-routes-and-navigation-69f128a9ea8f)
 * [Translating App from RN to Flutter](https://blog.geekyants.com/we-rebuilt-a-react-native-app-with-flutter-4160f0499a82)
 * [How to build a Simple App in Under an Hour From Scratch @ Medium](https://proandroiddev.com/flutter-how-i-built-a-simple-app-in-under-an-hour-from-scratch-and-how-you-can-do-it-too-6d8e7fe6c91b)
-* [Flutter Challenge: Egg Timer UI @ Medium](https://medium.com/fluttery/flutter-challenge-egg-timer-ui-fffae11f4883)
-* [Flutter Challenge: Hidden Drawer Menu @ Medium](https://medium.com/fluttery/flutter-challenge-hidden-drawer-menu-1aaca9a634fd)
-* [Flutter Challenge: Weather Forecast with Rain @ Medium](https://medium.com/fluttery/flutter-challenge-weather-forecast-with-rain-438cdd1072f9)
 * [Creating medium’s clap animation in flutter](https://medium.com/@Kartik1607/flutter-animation-creating-mediums-clap-animation-in-flutter-3168f047421e)
 * [Build your own plugin for flutter](https://proandroiddev.com/build-your-own-plugin-for-flutter-cfee1a08ea3a)
 * [Flutter, ListView and GridView with TabBar](https://medium.com/@vigneshprakash15/flutter-listview-and-gridview-with-tabbar-221516518c75)
@@ -83,6 +80,12 @@ Inspired by;
 
 ## Tutorial Series
 * [Bookshelf App](https://proandroiddev.com/flutter-how-i-built-a-simple-app-in-under-an-hour-from-scratch-and-how-you-can-do-it-too-6d8e7fe6c91b)
+
+### Flutter Challange Tutorial Series
+* [Flutter Challenge: Egg Timer UI @ Medium](https://medium.com/fluttery/flutter-challenge-egg-timer-ui-fffae11f4883)
+* [Flutter Challenge: Hidden Drawer Menu @ Medium](https://medium.com/fluttery/flutter-challenge-hidden-drawer-menu-1aaca9a634fd)
+* [Flutter Challenge: Weather Forecast with Rain @ Medium](https://medium.com/fluttery/flutter-challenge-weather-forecast-with-rain-438cdd1072f9)
+* [Flutter Challenge: Feature Discovery](https://medium.com/fluttery/flutter-challenge-feature-discovery-25718b9b1728)
 
 
 ## Videos
@@ -113,10 +116,6 @@ Inspired by;
 
 
 ## Codebases for Reference
-
-
-
-## Content Management Systems
 
 
 
