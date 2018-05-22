@@ -77,6 +77,7 @@ Inspired by;
 * [Forms in Flutter](https://medium.com/@anilcan/forms-in-flutter-6e1364eafdb5)
 * [Login Form Animation](https://blog.geekyants.com/flutter-login-animation-ab3e6ed4bd19)
 * [Animating Appbar like Instagram](https://flutterdoc.com/animating-app-bars-in-flutter-cf034cd6c68b)
+* [Dynamic Home Page](https://medium.com/@anilcan/how-to-use-dynamic-home-page-in-flutter-83080da07012)
 
 ## Tutorial Series
 * [Bookshelf App](https://proandroiddev.com/flutter-how-i-built-a-simple-app-in-under-an-hour-from-scratch-and-how-you-can-do-it-too-6d8e7fe6c91b)
