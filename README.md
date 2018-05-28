@@ -82,6 +82,7 @@ Inspired by;
 * [Bubble tab indicator for TabBar](https://android.jlelse.eu/flutter-bubble-tab-indicator-for-tabbar-dd038f1076d3)
 * [Input widgets](http://tphangout.com/flutter-input-widgets/)
 * [Building a snapchat-like interface in Flutter](https://medium.com/@kr1uz/building-a-snapchat-like-interface-in-flutter-aafb7e59c8a5)
+* [Flutter Layouts Walkthrough: Row, Column, Stack, Expanded, Padding](https://github.com/bizz84/layout-demo-flutter)
 
 
 
@@ -99,6 +100,8 @@ Inspired by;
 
 * [Building a Music Player App](https://medium.com/@esubaggins/flutter-music-player-app-part-1-using-multi-widgets-92c3c663f523)
 * [Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE) &#9654;
+* [Building your first Flutter Widget](https://www.youtube.com/watch?v=W1pNjxmNHNQ&feature=youtu.be)
+
 
 
 
