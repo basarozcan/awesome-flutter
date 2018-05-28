@@ -39,6 +39,7 @@ Inspired by;
 * [Gitter Community](https://gitter.im/flutter/flutter)
 * [Flutter for React Native Devs](https://flutter.io/flutter-for-react-native/)
 * [Tour of Dart Language](https://www.dartlang.org/guides/language/language-tour)
+* [Flutter Rocks](https://flutter.rocks/) 
 
 ## Widgets
 
@@ -79,6 +80,10 @@ Inspired by;
 * [Animating Appbar like Instagram](https://flutterdoc.com/animating-app-bars-in-flutter-cf034cd6c68b)
 * [Dynamic Home Page](https://medium.com/@anilcan/how-to-use-dynamic-home-page-in-flutter-83080da07012)
 * [Bubble tab indicator for TabBar](https://android.jlelse.eu/flutter-bubble-tab-indicator-for-tabbar-dd038f1076d3)
+* [Input widgets](http://tphangout.com/flutter-input-widgets/)
+* [Building a snapchat-like interface in Flutter](https://medium.com/@kr1uz/building-a-snapchat-like-interface-in-flutter-aafb7e59c8a5)
+
+
 
 ## Tutorial Series
 * [Bookshelf App](https://proandroiddev.com/flutter-how-i-built-a-simple-app-in-under-an-hour-from-scratch-and-how-you-can-do-it-too-6d8e7fe6c91b)
