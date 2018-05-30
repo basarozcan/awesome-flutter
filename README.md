@@ -83,6 +83,7 @@ Inspired by;
 * [Input widgets](http://tphangout.com/flutter-input-widgets/)
 * [Building a snapchat-like interface in Flutter](https://medium.com/@kr1uz/building-a-snapchat-like-interface-in-flutter-aafb7e59c8a5)
 * [Flutter Layouts Walkthrough: Row, Column, Stack, Expanded, Padding](https://github.com/bizz84/layout-demo-flutter)
+* [Localization tutorial](https://proandroiddev.com/flutter-localization-step-by-step-30f95d06018d)
 
 
 
