@@ -95,6 +95,7 @@ Inspired by;
 * [Flutter Challenge: Hidden Drawer Menu @ Medium](https://medium.com/fluttery/flutter-challenge-hidden-drawer-menu-1aaca9a634fd)
 * [Flutter Challenge: Weather Forecast with Rain @ Medium](https://medium.com/fluttery/flutter-challenge-weather-forecast-with-rain-438cdd1072f9)
 * [Flutter Challenge: Feature Discovery](https://medium.com/fluttery/flutter-challenge-feature-discovery-25718b9b1728)
+* [Flutter Challenge: Card Flip Carousel](https://medium.com/fluttery/flutter-challenge-card-flip-carousel-e4f6a11e643a)
 
 
 ## Videos
