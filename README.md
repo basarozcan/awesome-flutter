@@ -85,6 +85,7 @@ Inspired by;
 * [Flutter Layouts Walkthrough: Row, Column, Stack, Expanded, Padding](https://github.com/bizz84/layout-demo-flutter)
 * [Localization tutorial](https://proandroiddev.com/flutter-localization-step-by-step-30f95d06018d)
 * [BoxDecoration Cheat Sheet](https://medium.com/jlouage/flutter-boxdecoration-cheat-sheet-72cedaa1ba20)
+* [How to dynamically change the theme in Flutter](https://proandroiddev.com/how-to-dynamically-change-the-theme-in-flutter-698bd022d0f0)
 
 
 
