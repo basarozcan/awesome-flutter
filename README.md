@@ -88,6 +88,7 @@ Inspired by;
 * [BoxDecoration Cheat Sheet](https://medium.com/jlouage/flutter-boxdecoration-cheat-sheet-72cedaa1ba20)
 * [How to dynamically change the theme in Flutter](https://proandroiddev.com/how-to-dynamically-change-the-theme-in-flutter-698bd022d0f0)
 * [Simple Milky Way animation with Flutter](https://medium.com/@duytq94/simple-milky-way-animation-with-flutter-1ea936c145bf)
+* [Bottom Modal Sheets](https://flutterdoc.com/bottom-sheets-in-flutter-ec05c90453e7)
 
 
 
