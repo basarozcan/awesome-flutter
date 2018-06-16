@@ -89,6 +89,8 @@ Inspired by;
 * [How to dynamically change the theme in Flutter](https://proandroiddev.com/how-to-dynamically-change-the-theme-in-flutter-698bd022d0f0)
 * [Simple Milky Way animation with Flutter](https://medium.com/@duytq94/simple-milky-way-animation-with-flutter-1ea936c145bf)
 * [Bottom Modal Sheets](https://flutterdoc.com/bottom-sheets-in-flutter-ec05c90453e7)
+* [Launching Flutter Task Listing App Theme](https://blog.geekyants.com/launching-flutter-task-listing-app-75ab70cfd713)
+* [Restaurant animation with Flutter](https://medium.com/@duytq94/restaurant-animation-with-flutter-cbe704b4e20f)
 
 
 
@@ -101,6 +103,7 @@ Inspired by;
 * [Flutter Challenge: Weather Forecast with Rain @ Medium](https://medium.com/fluttery/flutter-challenge-weather-forecast-with-rain-438cdd1072f9)
 * [Flutter Challenge: Feature Discovery](https://medium.com/fluttery/flutter-challenge-feature-discovery-25718b9b1728)
 * [Flutter Challenge: Card Flip Carousel](https://medium.com/fluttery/flutter-challenge-card-flip-carousel-e4f6a11e643a)
+* [Flutter Challenge: Tinder Matching](https://medium.com/fluttery/flutter-challenge-tinder-matching-a6a8ccecc03a)
 
 
 ## Videos
