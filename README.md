@@ -91,6 +91,7 @@ Inspired by;
 * [Bottom Modal Sheets](https://flutterdoc.com/bottom-sheets-in-flutter-ec05c90453e7)
 * [Launching Flutter Task Listing App Theme](https://blog.geekyants.com/launching-flutter-task-listing-app-75ab70cfd713)
 * [Restaurant animation with Flutter](https://medium.com/@duytq94/restaurant-animation-with-flutter-cbe704b4e20f)
+* [Text & Barcode Scanner App with Firebase ML Kit](https://medium.com/@alfianlosari/flutter-text-barcode-scanner-app-with-firebase-ml-kit-103db6b6dad7)
 
 
 
