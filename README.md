@@ -92,6 +92,8 @@ Inspired by;
 * [Launching Flutter Task Listing App Theme](https://blog.geekyants.com/launching-flutter-task-listing-app-75ab70cfd713)
 * [Restaurant animation with Flutter](https://medium.com/@duytq94/restaurant-animation-with-flutter-cbe704b4e20f)
 * [Text & Barcode Scanner App with Firebase ML Kit](https://medium.com/@alfianlosari/flutter-text-barcode-scanner-app-with-firebase-ml-kit-103db6b6dad7)
+* [Steppers and Form in Flutter](https://medium.com/@aseemwangoo/steppers-and-form-in-flutter-49cda857230c)
+* [Easily navigate through your Flutter code by separating view and view-model](https://blog.usejournal.com/easily-navigate-through-your-flutter-code-by-separating-view-and-view-model-240026191106)
 
 
 
