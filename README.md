@@ -94,6 +94,8 @@ Inspired by;
 * [Text & Barcode Scanner App with Firebase ML Kit](https://medium.com/@alfianlosari/flutter-text-barcode-scanner-app-with-firebase-ml-kit-103db6b6dad7)
 * [Steppers and Form in Flutter](https://medium.com/@aseemwangoo/steppers-and-form-in-flutter-49cda857230c)
 * [Easily navigate through your Flutter code by separating view and view-model](https://blog.usejournal.com/easily-navigate-through-your-flutter-code-by-separating-view-and-view-model-240026191106)
+* [Creating draggable scrollbar](https://medium.com/flutter-community/creating-draggable-scrollbar-in-flutter-a0ae8cf3143b)
+
 
 
 
