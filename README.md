@@ -95,6 +95,7 @@ Inspired by;
 * [Steppers and Form in Flutter](https://medium.com/@aseemwangoo/steppers-and-form-in-flutter-49cda857230c)
 * [Easily navigate through your Flutter code by separating view and view-model](https://blog.usejournal.com/easily-navigate-through-your-flutter-code-by-separating-view-and-view-model-240026191106)
 * [Creating draggable scrollbar](https://medium.com/flutter-community/creating-draggable-scrollbar-in-flutter-a0ae8cf3143b)
+* [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2)
 
 
 
