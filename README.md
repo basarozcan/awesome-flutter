@@ -97,6 +97,8 @@ Inspired by;
 * [Creating draggable scrollbar](https://medium.com/flutter-community/creating-draggable-scrollbar-in-flutter-a0ae8cf3143b)
 * [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2)
 * [Swipe for more action widget](https://medium.com/@info_67212/flutter-swipe-your-widget-for-more-action-items-2b85866ca238)
+* [Beautiful List UI and Detail page](https://proandroiddev.com/flutter-thursday-02-beautiful-list-ui-and-detail-page-a9245f5ceaf0)
+* [Displaying Dynamic Contents using ListView.builder](https://medium.com/@DakshHub/flutter-displaying-dynamic-contents-using-listview-builder-f2cedb1a19fb)
 
 
 
