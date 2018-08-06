@@ -100,6 +100,7 @@ Inspired by;
 * [Beautiful List UI and Detail page](https://proandroiddev.com/flutter-thursday-02-beautiful-list-ui-and-detail-page-a9245f5ceaf0)
 * [Displaying Dynamic Contents using ListView.builder](https://medium.com/@DakshHub/flutter-displaying-dynamic-contents-using-listview-builder-f2cedb1a19fb)
 * [Unit and Widget Tests in Depth](https://medium.com/coding-with-flutter/flutter-unit-and-widget-tests-in-depth-b059b09bc692)
+* [UI CHALLENGE – FLIGHT SEARCH](https://marcinszalek.pl/flutter/ui-challenge-flight-search/)
 
 
 
