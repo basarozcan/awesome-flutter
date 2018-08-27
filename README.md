@@ -45,6 +45,7 @@ Inspired by;
 
 * [Flutter Widgets](https://flutter.io/widgets/)
 * [Sticky Header List](https://github.com/itsJoKr/sticky_header_list)
+* [Flutter Animated Loaders](https://github.com/studioidan/FlutterAnimatedLoaders)
 
 ## Packages
 
