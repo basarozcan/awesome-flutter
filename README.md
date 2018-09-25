@@ -111,6 +111,7 @@ Inspired by;
 
 ## Tutorial Series
 * [Bookshelf App](https://proandroiddev.com/flutter-how-i-built-a-simple-app-in-under-an-hour-from-scratch-and-how-you-can-do-it-too-6d8e7fe6c91b)
+* [Flutter By Example](https://flutterbyexample.com)
 
 ### Flutter Challange Tutorial Series
 * [Flutter Challenge: Egg Timer UI @ Medium](https://medium.com/fluttery/flutter-challenge-egg-timer-ui-fffae11f4883)
@@ -141,6 +142,7 @@ Inspired by;
 
 ## Books
 
+* [Flutter in Action: Early Access](https://www.manning.com/books/flutter-in-action)
 
 ## Starter Projects
 
