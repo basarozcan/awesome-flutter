@@ -105,8 +105,7 @@ Inspired by;
 * [Unit and Widget Tests in Depth](https://medium.com/coding-with-flutter/flutter-unit-and-widget-tests-in-depth-b059b09bc692)
 * [UI CHALLENGE – FLIGHT SEARCH](https://marcinszalek.pl/flutter/ui-challenge-flight-search/)
 * [Mapbox and Polylines](http://tphangout.com/flutter-mapbox-and-polylines/)
-
-
+* [Flutter Crush] https://medium.com/flutter-community/flutter-crush-debee5f389c3
 
 
 ## Tutorial Series
