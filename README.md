@@ -107,6 +107,7 @@ Inspired by;
 * [UI CHALLENGE – FLIGHT SEARCH](https://marcinszalek.pl/flutter/ui-challenge-flight-search/)
 * [Mapbox and Polylines](http://tphangout.com/flutter-mapbox-and-polylines/)
 * [Flutter Crush](https://medium.com/flutter-community/flutter-crush-debee5f389c3)
+* [Adding Google Maps to Flutter](https://medium.com/flutter-io/google-maps-and-flutter-cfb330f9a245)
 
 
 ## Tutorial Series
