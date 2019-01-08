@@ -129,6 +129,7 @@ Inspired by;
 * [Building a Music Player App](https://medium.com/@esubaggins/flutter-music-player-app-part-1-using-multi-widgets-92c3c663f523)
 * [Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE) &#9654;
 * [Building your first Flutter Widget](https://www.youtube.com/watch?v=W1pNjxmNHNQ&feature=youtu.be)
+* [Flutter UI - Minimal, clean designs by Raja Yogan](https://www.youtube.com/watch?v=OLmE2Pu-coU&feature=youtu.be)
 
 
 
