@@ -19,6 +19,7 @@ Inspired by;
 - [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
 - [Tutorial Series](#tutorial-series)
 - [Videos](#videos)
+- [Softwares](#softwares)
 - [Conferences](#conferences)
 - [Books](#books)
 - [Starter Projects](#starter-projects)
@@ -132,7 +133,9 @@ Inspired by;
 * [Flutter UI - Minimal, clean designs by Raja Yogan](https://www.youtube.com/watch?v=OLmE2Pu-coU&feature=youtu.be)
 
 
+## Softwares
 
+* [Flutter Widget-Maker](https://norbert515.github.io/widget_maker/website/)
 
 ## Conferences
 
