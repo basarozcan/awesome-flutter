@@ -157,6 +157,7 @@ Inspired by;
 
 * [Workout App with Flutter & Firebase](https://github.com/Crazywater/knuffiworkout)
 * [Instagram Clone](https://github.com/mdanics/fluttergram)
+* [GitJournal](https://github.com/GitJournal/GitJournal)
 
 
 ## Codebases for Reference
