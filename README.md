@@ -109,6 +109,7 @@ Inspired by;
 * [Mapbox and Polylines](http://tphangout.com/flutter-mapbox-and-polylines/)
 * [Flutter Crush](https://medium.com/flutter-community/flutter-crush-debee5f389c3)
 * [Adding Google Maps to Flutter](https://medium.com/flutter-io/google-maps-and-flutter-cfb330f9a245)
+* [GPS Geolocation Tutorial](https://morioh.com/p/832f968ed090/flutter-gps-geolocation-tutorial)
 
 
 ## Tutorial Series
