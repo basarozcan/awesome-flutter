@@ -132,6 +132,7 @@ Inspired by;
 * [Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE) &#9654;
 * [Building your first Flutter Widget](https://www.youtube.com/watch?v=W1pNjxmNHNQ&feature=youtu.be)
 * [Flutter UI - Minimal, clean designs by Raja Yogan](https://www.youtube.com/watch?v=OLmE2Pu-coU&feature=youtu.be)
+* [Flutter in Motion](https://www.manning.com/livevideo/flutter-in-motion)
 
 
 ## Softwares
