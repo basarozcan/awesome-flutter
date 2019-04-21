@@ -110,6 +110,7 @@ Inspired by;
 * [Flutter Crush](https://medium.com/flutter-community/flutter-crush-debee5f389c3)
 * [Adding Google Maps to Flutter](https://medium.com/flutter-io/google-maps-and-flutter-cfb330f9a245)
 * [GPS Geolocation Tutorial](https://morioh.com/p/832f968ed090/flutter-gps-geolocation-tutorial)
+* [Get A User’s Location In Flutter](https://medium.com/flutter-community/get-a-users-location-in-flutter-20f488ac8043)
 
 
 ## Tutorial Series
