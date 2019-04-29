@@ -57,6 +57,7 @@ Inspired by;
 * [Google Charts](https://github.com/google/charts)
 * [Flutter Slack oAuth](https://github.com/Kunstmaan/flutter_slack_oauth)
 * [SQLCipher for Flutter](https://pub.dartlang.org/packages/flutter_sqlcipher)
+* [Rate My App - kindly ask users to rate your app if custom conditions are met](https://github.com/Skyost/rate_my_app)
 
 ## Popular Packages
 
@@ -111,6 +112,9 @@ Inspired by;
 * [Adding Google Maps to Flutter](https://medium.com/flutter-io/google-maps-and-flutter-cfb330f9a245)
 * [GPS Geolocation Tutorial](https://morioh.com/p/832f968ed090/flutter-gps-geolocation-tutorial)
 * [Get A User’s Location In Flutter](https://medium.com/flutter-community/get-a-users-location-in-flutter-20f488ac8043)
+* [How to code sign & publish iOS apps](https://blog.codemagic.io/how-to-code-sign-publish-ios-apps/)
+* [Continuous Integration and Deployment with Flutter and Fastlane](https://medium.com/@arneolaim/continuous-integration-and-deployment-with-flutter-and-fastlane-a927014723e1)
+* [Using SharedPreferences in Flutter](https://medium.com/flutterdevs/using-sharedpreferences-in-flutter-251755f07127)
 
 
 ## Tutorial Series
@@ -161,6 +165,7 @@ Inspired by;
 * [Workout App with Flutter & Firebase](https://github.com/Crazywater/knuffiworkout)
 * [Instagram Clone](https://github.com/mdanics/fluttergram)
 * [GitJournal](https://github.com/GitJournal/GitJournal)
+* [Wallet Ui App](https://github.com/RegNex/WalletUiApp)
 
 
 ## Codebases for Reference
