@@ -115,6 +115,8 @@ Inspired by;
 * [How to code sign & publish iOS apps](https://blog.codemagic.io/how-to-code-sign-publish-ios-apps/)
 * [Continuous Integration and Deployment with Flutter and Fastlane](https://medium.com/@arneolaim/continuous-integration-and-deployment-with-flutter-and-fastlane-a927014723e1)
 * [Using SharedPreferences in Flutter](https://medium.com/flutterdevs/using-sharedpreferences-in-flutter-251755f07127)
+* [How to parse Json in Flutter for Beginners](https://medium.com/flutter-community/how-to-parse-json-in-flutter-for-beginners-8074a68d7a79)
+* [Create Custom Component](https://santoshanand.me/2019/05/04/create-custom-component/)
 
 
 ## Tutorial Series
@@ -138,6 +140,7 @@ Inspired by;
 * [Building your first Flutter Widget](https://www.youtube.com/watch?v=W1pNjxmNHNQ&feature=youtu.be)
 * [Flutter UI - Minimal, clean designs by Raja Yogan](https://www.youtube.com/watch?v=OLmE2Pu-coU&feature=youtu.be)
 * [Flutter in Motion](https://www.manning.com/livevideo/flutter-in-motion)
+* [What's new in Flutter 2019 (Google I/O)](https://www.youtube.com/watch?v=5VbAwhBBHsg&feature=youtu.be&linkId=67167617)
 
 
 ## Softwares
