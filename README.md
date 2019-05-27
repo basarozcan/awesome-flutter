@@ -117,6 +117,7 @@ Inspired by;
 * [Using SharedPreferences in Flutter](https://medium.com/flutterdevs/using-sharedpreferences-in-flutter-251755f07127)
 * [How to parse Json in Flutter for Beginners](https://medium.com/flutter-community/how-to-parse-json-in-flutter-for-beginners-8074a68d7a79)
 * [Create Custom Component](https://santoshanand.me/2019/05/04/create-custom-component/)
+* [A Guide to Using Futures in Flutter for Beginners](https://medium.com/flutter-community/a-guide-to-using-futures-in-flutter-for-beginners-ebeddfbfb967)
 
 
 ## Tutorial Series
