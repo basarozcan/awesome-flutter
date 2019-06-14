@@ -118,6 +118,7 @@ Inspired by;
 * [How to parse Json in Flutter for Beginners](https://medium.com/flutter-community/how-to-parse-json-in-flutter-for-beginners-8074a68d7a79)
 * [Create Custom Component](https://santoshanand.me/2019/05/04/create-custom-component/)
 * [A Guide to Using Futures in Flutter for Beginners](https://medium.com/flutter-community/a-guide-to-using-futures-in-flutter-for-beginners-ebeddfbfb967)
+* [Build a Location Service in Flutter](https://medium.com/flutter-community/build-a-location-service-in-flutter-367a1b212f7a)
 
 
 ## Tutorial Series
