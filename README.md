@@ -59,6 +59,7 @@ Inspired by;
 * [SQLCipher for Flutter](https://pub.dartlang.org/packages/flutter_sqlcipher)
 * [Rate My App - kindly ask users to rate your app if custom conditions are met](https://github.com/Skyost/rate_my_app)
 * [Custom Sticky Headers](https://medium.com/flutter-community/custom-sticky-headers-in-flutter-248d3c26863)
+* [Flutter Lottie](https://github.com/CameronStuartSmith/flutter_lottie)
 
 ## Popular Packages
 
