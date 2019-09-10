@@ -122,6 +122,7 @@ Inspired by;
 * [A Guide to Using Futures in Flutter for Beginners](https://medium.com/flutter-community/a-guide-to-using-futures-in-flutter-for-beginners-ebeddfbfb967)
 * [Build a Location Service in Flutter](https://medium.com/flutter-community/build-a-location-service-in-flutter-367a1b212f7a)
 * [Stateful vs Stateless Widgets](https://medium.com/flutter-community/flutter-stateful-vs-stateless-db325309deae)
+* [Flutter Passwordless Authentication](https://medium.com/@hajola/flutter-passwordless-authentication-a-guide-for-phone-email-login-6759252f4e)
 
 
 ## Tutorial Series
