@@ -123,6 +123,7 @@ Inspired by;
 * [Build a Location Service in Flutter](https://medium.com/flutter-community/build-a-location-service-in-flutter-367a1b212f7a)
 * [Stateful vs Stateless Widgets](https://medium.com/flutter-community/flutter-stateful-vs-stateless-db325309deae)
 * [Flutter Passwordless Authentication](https://medium.com/@hajola/flutter-passwordless-authentication-a-guide-for-phone-email-login-6759252f4e)
+* [To-do List in Flutter with SQLite as local database](https://medium.com/@abeythilakeudara3/to-do-list-in-flutter-with-sqlite-as-local-database-8b26ba2b060e)
 
 
 ## Tutorial Series
