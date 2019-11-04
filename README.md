@@ -124,6 +124,7 @@ Inspired by;
 * [Stateful vs Stateless Widgets](https://medium.com/flutter-community/flutter-stateful-vs-stateless-db325309deae)
 * [Flutter Passwordless Authentication](https://medium.com/@hajola/flutter-passwordless-authentication-a-guide-for-phone-email-login-6759252f4e)
 * [To-do List in Flutter with SQLite as local database](https://medium.com/@abeythilakeudara3/to-do-list-in-flutter-with-sqlite-as-local-database-8b26ba2b060e)
+* [The Ultimate Javascript vs Dart Syntax Guide](https://flutterigniter.com/ultimate-javascript-dart-syntax-guide/)
 
 
 ## Tutorial Series
