@@ -125,6 +125,7 @@ Inspired by;
 * [Flutter Passwordless Authentication](https://medium.com/@hajola/flutter-passwordless-authentication-a-guide-for-phone-email-login-6759252f4e)
 * [To-do List in Flutter with SQLite as local database](https://medium.com/@abeythilakeudara3/to-do-list-in-flutter-with-sqlite-as-local-database-8b26ba2b060e)
 * [The Ultimate Javascript vs Dart Syntax Guide](https://flutterigniter.com/ultimate-javascript-dart-syntax-guide/)
+* [Implement Real-time Location Updates on Google Maps in your Flutter Apps](https://medium.com/flutter-community/implement-real-time-location-updates-on-google-maps-in-flutter-235c8a09173e)
 
 
 ## Tutorial Series
