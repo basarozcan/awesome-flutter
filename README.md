@@ -129,6 +129,7 @@ Inspired by;
 * [Monitor Your Flutter App’s Health End to End With GitHub Actions](https://medium.com/better-programming/monitor-your-flutter-apps-health-end-to-end-with-github-actions-8a9fb1889c6a)
 * [Using MQTT With Flutter to Build a Location Sharing App](https://medium.com/swlh/using-mqtt-with-flutter-to-build-a-location-sharing-app-24e7307b21d3)
 * [Apple Sign In with Flutter & Firebase Authentication](https://codewithandrea.com/videos/2020-01-20-apple-sign-in-flutter-firebase/)
+* [Flutter Developer Roadmap](https://roadmap.sh/flutter)
 
 
 ## Tutorial Series
