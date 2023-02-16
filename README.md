@@ -48,7 +48,21 @@ Inspired by;
 * [Sticky Header List](https://github.com/itsJoKr/sticky_header_list)
 * [Flutter Animated Loaders](https://github.com/studioidan/FlutterAnimatedLoaders)
 * [Flutter Wave Progress](https://github.com/studioidan/wave_progress)
-
+* [DataGrid](https://www.syncfusion.com/flutter-widgets/flutter-datagrid) - A High-Performance and Interactive Grid by [Syncfusion](https://www.syncfusion.com).
+* [30+ Charts](https://www.syncfusion.com/flutter-widgets/flutter-charts) - Beautiful and Interactive Charts & Graphs by [Syncfusion](https://www.syncfusion.com).
+* [Spark/Micro Charts](https://www.syncfusion.com/flutter-widgets/flutter-spark-charts) - Lightweight micro Charts & Graphs by [Syncfusion](https://www.syncfusion.com).
+* [Calendar](https://www.syncfusion.com/flutter-widgets/flutter-calendar) Flexible Event Scheduler by [Syncfusion](https://www.syncfusion.com).
+* [Date Range Picker](https://www.syncfusion.com/flutter-widgets/flutter-daterangepicker) Flexible Date Range Picker by [Syncfusion](https://www.syncfusion.com).
+* [Maps](https://www.syncfusion.com/flutter-widgets/flutter-maps) - Highly customizable and interactive data viz widget to render GeoJSON data as geographical shapes by [Syncfusion](https://www.syncfusion.com)
+* [Radial Gauge](https://www.syncfusion.com/flutter-widgets/flutter-radial-gauge) - Highly Customizable and Interactive Radial Gauge by [Syncfusion](https://www.syncfusion.com).
+* [Barcode Generator](https://www.syncfusion.com/flutter-widgets/flutter-barcodes) - Feature-rich Barcode Generator by [Syncfusion](https://www.syncfusion.com).
+* [Slider](https://www.syncfusion.com/flutter-widgets/flutter-slider) - Highly Customizable Flutter Slider by [Syncfusion](https://www.syncfusion.com).
+* [Range Slider](https://www.syncfusion.com/flutter-widgets/flutter-range-slider) - Highly Customizable Flutter Range Slider by [Syncfusion](https://www.syncfusion.com).  
+* [Range Selector](https://www.syncfusion.com/flutter-widgets/flutter-range-selector) - Highly Customizable Flutter Range Selector by [Syncfusion](https://www.syncfusion.com). 
+* [PDF Viewer](https://www.syncfusion.com/flutter-widgets/flutter-pdf-viewer) - A widget to view the PDFs seamlessly in Flutter by [Syncfusion](https://www.syncfusion.com).
+* [PDF Library](https://www.syncfusion.com/flutter-widgets/pdf-library) - A library to create PDF documents in Flutter by [Syncfusion](https://www.syncfusion.com).
+* [Excel Library](https://www.syncfusion.com/flutter-widgets/excel-library) - A library to create Excel documents in Flutter by [Syncfusion](https://www.syncfusion.com).
+* [Signature Pad](https://www.syncfusion.com/flutter-widgets/flutter-signaturepad) - A library to capture smooth and realistic signatures in Flutter by [Syncfusion](https://www.syncfusion.com).
 
 ## Packages
 
@@ -172,6 +186,8 @@ Inspired by;
 ## Books
 
 * [Flutter in Action: Early Access](https://www.manning.com/books/flutter-in-action)
+* [Flutter Succinctly](https://www.syncfusion.com/ebooks/flutter-succinctly) by [Syncfusion](https://www.syncfusion.com).
+
 
 ## Starter Projects
 
