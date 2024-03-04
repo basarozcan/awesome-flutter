@@ -74,7 +74,8 @@ Inspired by;
 * [Rate My App - kindly ask users to rate your app if custom conditions are met](https://github.com/Skyost/rate_my_app)
 * [Custom Sticky Headers](https://medium.com/flutter-community/custom-sticky-headers-in-flutter-248d3c26863)
 * [Flutter Lottie](https://github.com/CameronStuartSmith/flutter_lottie)
-
+* [LLAMA.CPP Dart](https://github.com/netdur/llama_cpp_dart)
+  
 ## Popular Packages
 
 
